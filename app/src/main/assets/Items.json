@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Kebab",
+    "Ingredience": "ut sint qui minus officiis minima et\nsit et exercitationem quidem\nipsum voluptas accusamus",
+    "Price": 635,
+    "Id": 0
+  },
+  {
+    "Name": "Köttbullar",
+    "Ingredience": "minus magnam iure cupiditate dicta dolorum\nvoluptatem iusto minus ipsa impedit nisi consequatur\nbeatae dicta voluptatem reprehenderit aut",
+    "Price": 363,
+    "Id": 1
+  },
+  {
+    "Name": "Plankstek",
+    "Ingredience": "saepe ut pariatur minima in quos voluptatem\nquaerat suscipit officia sint inventore similique excepturi\nalias ipsam est consequatur qui dolorem et est porro",
+    "Price": 710,
+    "Id": 2
+  },
+  {
+    "Name": "Pizza",
+    "Ingredience": "et eius veniam\nquis voluptatem ratione qui explicabo et\nincidunt enim laboriosam molestiae voluptas",
+    "Price": 158,
+    "Id": 3
+  },
+  {
+    "Name": "Korv",
+    "Ingredience": "consequatur voluptates cupiditate qui\neum tenetur ut cupiditate quae quis\ndolores qui a asperiores est quis qui cumque",
+    "Price": 43,
+    "Id": 4
+  },
+  {
+    "Name": "Lax",
+    "Ingredience": "aut quasi sunt necessitatibus molestiae fugiat qui aut\ntempora laborum et quod officiis dolorem\nqui hic odio laboriosam odit",
+    "Price": 407,
+    "Id": 5
+  },
+  {
+    "Name": "Sill",
+    "Ingredience": "corporis quibusdam nisi qui alias qui\nomnis libero dolores eius animi eum\nharum voluptate voluptatem sunt et enim illo esse vitae",
+    "Price": 486,
+    "Id": 6
+  },
+  {
+    "Name": "Kyckling",
+    "Ingredience": "optio asperiores vel\nodit quod dolor quo quae\nvel rem nobis repudiandae perspiciatis",
+    "Price": 744,
+    "Id": 7
+  },
+  {
+    "Name": "Pommes",
+    "Ingredience": "reiciendis in harum consequuntur ea id sit aut\nvitae dolor in saepe voluptatem beatae voluptatibus\nut deserunt tempore deleniti tenetur ex maiores iure ut",
+    "Price": 553,
+    "Id": 8
+  },
+  {
+    "Name": "Falafel",
+    "Ingredience": "ipsum nemo necessitatibus nam dolores ipsam soluta tenetur\nnemo veritatis perspiciatis voluptatibus omnis\nvoluptatem cumque ut vel est necessitatibus et",
+    "Price": 102,
+    "Id": 9
+  },
+  {
+    "Name": "Hamburgare",
+    "Ingredience": "ut optio modi\nveritatis ut animi aliquid quibusdam et soluta eum\nmagni ducimus distinctio consequatur quas nam id ea",
+    "Price": 603,
+    "Id": 10
+  },
+  {
+    "Name": "Wok",
+    "Ingredience": "quaerat odit atque pariatur expedita dignissimos voluptate consequatur\nrerum cupiditate voluptatum ipsam saepe exercitationem id ut\net error iure sed aut voluptatum",
+    "Price": 253,
+    "Id": 11
+  },
+  {
+    "Name": "Ugnsbakade sötpotatis",
+    "Ingredience": "ex nisi facere perferendis at dicta\nquo asperiores ipsa ea est magni rerum\nodio dolorem maxime",
+    "Price": 53,
+    "Id": 12
+  },
+  {
+    "Name": "Slut på ideer",
+    "Ingredience": "quia expedita inventore praesentium dolores aliquam voluptas et quibusdam\net facere quam\nquo exercitationem odit aut enim incidunt",
+    "Price": 766,
+    "Id": 13
+  },
+  {
+    "Name": "Slut på ideer V2",
+    "Ingredience": "omnis aspernatur in cupiditate\nest harum quis similique ut magni\nfacere quam consequatur commodi ab debitis",
+    "Price": 200,
+    "Id": 14
+  }
+]
